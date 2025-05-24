@@ -9,23 +9,18 @@
 ## ✨ Features
 
 ### 🗨️ Ask Anything
-- Talk to your assistant like a friend.
+- Ask assitant any question, which is first classified into one of the 3 categories: nutrional, health related, and other.
 - Powered by **Google Gemini** for natural, smart responses.
-- Built-in **query classifier** decides if your question is about:
-  - 🥗 **Nutrition**
-  - 🧠 **Mental Health**
-  - 🩺 **General Health**
-  - ❓ Other
 
 #### 🥗 Nutrition Q&A
 - Gemini detects food-related questions.
 - App fetches real-time **nutrition facts** from a trusted API.
-- Runs **multi-step RAG** (Retrieval-Augmented Generation) to analyze how nutrients impact blood sugar and diabetes.
 - Gemini explains it all clearly — combining data + reasoning.
 
 #### 🧠 General Health Q&A
 - Answers T1D-specific and general health queries.
 - Uses embedded trusted documents with Gemini for personalized, accurate responses.
+-  Runs **multi-step RAG** (Retrieval-Augmented Generation)
 - Warns users if no trusted info is available (transparency-first).
 
 ---
@@ -33,12 +28,7 @@
 ### 💬 Wanna Talk? (Mental Health Support)
 - Talk about how you're feeling.
 - First, a **Depression Classifier** checks for signs of depression.
-- Then Gemini offers:
-  - Supportive conversation
-  - Mindfulness prompts
-  - Journaling & reflection ideas
-- Not a therapist — just a warm and always-available companion 
-
+- Then Gemini offers supportive conversation
 ---
 
 ### 📋 Health Logger
