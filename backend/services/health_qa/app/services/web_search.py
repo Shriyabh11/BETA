@@ -1,0 +1,2 @@
+def answer_web_search(query):
+    return (f"[Web Search] No direct answer found. Here is a web search result for: {query}. (Warning: This information is not verified for medical use.)", "web-search-stub") 
