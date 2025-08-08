@@ -5,6 +5,11 @@
 > ⚠️ **Note:** This is a **very early beta version**.
 
 ---
+<img width="589" height="1249" alt="image" src="https://github.com/user-attachments/assets/5912c8c5-bc2d-4352-ac38-d64260725ed5" />
+<img width="598" height="1239" alt="image" src="https://github.com/user-attachments/assets/124fdc28-7a1a-4a6f-bc0c-708da4b7e342" />
+<img width="592" height="1257" alt="image" src="https://github.com/user-attachments/assets/bc17cd8d-672a-418a-8431-ca5376bced00" />
+<img width="580" height="1276" alt="image" src="https://github.com/user-attachments/assets/7eae1a11-85e4-41ff-a570-1010fb5b2a0c" />
+
 
 ## ✨ Features
 
