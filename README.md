@@ -5,6 +5,7 @@
 > ⚠️ **Note:** This is a **very early beta version**.
 
 ---
+<img width="566" height="1252" alt="image" src="https://github.com/user-attachments/assets/6ff0aa29-0a6c-4ed1-a59a-947e3a9f04b0" />
 <img width="589" height="1249" alt="image" src="https://github.com/user-attachments/assets/5912c8c5-bc2d-4352-ac38-d64260725ed5" />
 <img width="598" height="1239" alt="image" src="https://github.com/user-attachments/assets/124fdc28-7a1a-4a6f-bc0c-708da4b7e342" />
 <img width="592" height="1257" alt="image" src="https://github.com/user-attachments/assets/bc17cd8d-672a-418a-8431-ca5376bced00" />
